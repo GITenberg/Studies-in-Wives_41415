@@ -1,0 +1,36 @@
+_repo: Studies-in-Wives_41415
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41415-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Belloc-Lowndes, Marie Adelaide
+    - Lowndes, Marie Adelaide Belloc
+    - Belloc, M. A. (Marie Adelaide)
+    - Belloc, Marie Adelaide
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
+description: ''
+gutenberg_issued: '2012-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Wives -- Fiction'
+- !lcc 'PR'
+tableOfContents: Althea's opportunity -- Mr. Jarvice's wife -- A very modern instance
+  -- According to Meredith -- Shameful behaviour? -- The decree made absolute.
+title: Studies in Wives
+url: http://www.gutenberg.org/ebooks/41415
